@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "pesosz.antigravity-auto-accept",
+    "svelte.svelte-vscode",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}

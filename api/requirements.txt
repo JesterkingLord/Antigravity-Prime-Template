@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+psutil
+chromadb
+sentence-transformers
+python-multipart
+ruff
+pytest
+httpx

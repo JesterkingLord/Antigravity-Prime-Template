@@ -1,0 +1,10 @@
+{
+  "skill_id": "skill_creator",
+  "category": "template_core",
+  "layer": "tools",
+  "type": "template_core",
+  "dependencies": [],
+  "ui_exposed": true,
+  "stable": true,
+  "reusable": true
+}

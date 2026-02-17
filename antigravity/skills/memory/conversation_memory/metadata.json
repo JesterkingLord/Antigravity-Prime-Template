@@ -1,0 +1,9 @@
+{
+  "skill_id": "conversation_memory",
+  "category": "memory",
+  "layer": "tools",
+  "dependencies": [],
+  "ui_exposed": true,
+  "stable": true,
+  "reusable": true
+}

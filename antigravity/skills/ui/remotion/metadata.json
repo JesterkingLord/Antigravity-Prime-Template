@@ -1,0 +1,8 @@
+{
+  "skill_id": "remotion",
+  "category": "ui",
+  "layer": "tools",
+  "type": "stitch",
+  "dependencies": ["stitch", "remotion"],
+  "ui_exposed": true
+}

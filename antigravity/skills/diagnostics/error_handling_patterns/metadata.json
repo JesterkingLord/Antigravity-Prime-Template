@@ -1,0 +1,10 @@
+{
+  "skill_id": "error_handling_patterns",
+  "category": "diagnostics",
+  "layer": "tools",
+  "type": "template_core",
+  "dependencies": [],
+  "ui_exposed": true,
+  "stable": true,
+  "reusable": true
+}

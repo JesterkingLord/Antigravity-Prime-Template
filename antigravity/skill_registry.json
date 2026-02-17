@@ -1,0 +1,106 @@
+{
+  "skills": [
+    {
+      "id": "conversation_memory",
+      "path": "antigravity/skills/memory/conversation_memory",
+      "category": "memory",
+      "enabled": true
+    },
+    {
+      "id": "agent_orchestration",
+      "path": "antigravity/skills/routing/agent_orchestration",
+      "category": "routing",
+      "enabled": true
+    },
+    {
+      "id": "agent_tool_builder",
+      "path": "antigravity/skills/tools/agent_tool_builder",
+      "category": "tools",
+      "enabled": true
+    },
+    {
+      "id": "smart_debug",
+      "path": "antigravity/skills/diagnostics/smart_debug",
+      "category": "diagnostics",
+      "enabled": true
+    },
+    {
+      "id": "antigravity_workflows",
+      "path": "antigravity/skills/template_core/antigravity_workflows",
+      "category": "template_core",
+      "enabled": true
+    },
+    {
+      "id": "skill_creator",
+      "path": "antigravity/skills/template_core/skill_creator",
+      "category": "template_core",
+      "enabled": true
+    },
+    {
+      "id": "brand_identity",
+      "path": "antigravity/skills/template_core/brand_identity",
+      "category": "template_core",
+      "enabled": true
+    },
+    {
+      "id": "brainstorming",
+      "path": "antigravity/skills/planning/brainstorming",
+      "category": "planning",
+      "enabled": true
+    },
+    {
+      "id": "writing_plans",
+      "path": "antigravity/skills/planning/writing_plans",
+      "category": "planning",
+      "enabled": true
+    },
+    {
+      "id": "executing_plans",
+      "path": "antigravity/skills/planning/executing_plans",
+      "category": "planning",
+      "enabled": true
+    },
+    {
+      "id": "error_handling_patterns",
+      "path": "antigravity/skills/diagnostics/error_handling_patterns",
+      "category": "diagnostics",
+      "enabled": true
+    },
+    {
+       "id": "stitch_design_md",
+       "path": "antigravity/skills/ui/design_md",
+       "category": "ui",
+       "enabled": true
+    },
+    {
+       "id": "stitch_enhance_prompt",
+       "path": "antigravity/skills/ui/enhance_prompt",
+       "category": "ui",
+       "enabled": true
+    },
+    {
+       "id": "stitch_react_components",
+       "path": "antigravity/skills/ui/react_components",
+       "category": "ui",
+       "enabled": true
+    },
+    {
+       "id": "stitch_remotion",
+       "path": "antigravity/skills/ui/remotion",
+       "category": "ui",
+       "enabled": true
+    },
+    {
+       "id": "stitch_shadcn_ui",
+       "path": "antigravity/skills/ui/shadcn_ui",
+       "category": "ui",
+       "enabled": true
+    },
+    {
+       "id": "stitch_loop",
+       "path": "antigravity/skills/ui/stitch_loop",
+       "category": "ui",
+       "enabled": true
+    }
+  ]
+}

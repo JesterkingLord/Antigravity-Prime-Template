@@ -1,0 +1,8 @@
+{
+  "skill_id": "vector_memory",
+  "category": "memory",
+  "layer": "tools",
+  "type": "native",
+  "dependencies": ["chromadb", "sentence-transformers"],
+  "ui_exposed": true
+}
